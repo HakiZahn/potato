@@ -1,0 +1,4 @@
+name: PotatoTransfer
+version: 1.0
+main: com.yourplugin.PotatoTransfer
+api-version: 1.16
